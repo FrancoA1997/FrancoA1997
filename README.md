@@ -11,7 +11,7 @@
 <br/>
 
 - 🔭 I’m currently working on [My new portfolio](https://github.com/FrancoA1997/newPortfolio)
-- 🌱 I’m currently learning *Frontend-Testing:*JEST/REACT-TESTING-LIBRARY **
+- 🌱 I’m currently learning **Frontend-Testing: JEST/REACT-TESTING-LIBRARY **
 - 👨‍💻 All of my projects are available at [https://github.com/FrancoA1997](https://github.com/FrancoA1997)
 - 📝 My portfolio website [https://francoalvarez.ar](https://francoalvarez.ar)
 - 💬 Ask me about **React.js**
