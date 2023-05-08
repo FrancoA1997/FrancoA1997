@@ -50,7 +50,7 @@
 
 ### 💬 Contact Me
 
-[![Gmail](https://img.shields.io/badge/-yuebaix@outlook.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:francoalvarezn97@gmail.com)
+[![Gmail](https://img.shields.io/badge/-francoalvarezn97@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:francoalvarezn97@gmail.com)
 
 ### 🚦 Stats
 
